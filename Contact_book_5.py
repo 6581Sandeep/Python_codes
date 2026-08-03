@@ -1,8 +1,5 @@
-# --------------------------------------------------------------------------------------Task 5 Contact Book
+# --------------------------------------------------------------------------------------Contact Book
 
-print("TASK 5")
-print("Contact Book")
-print("Name : SANDEEP SANJAYKUMAR SWAMI\n")
 
 contact = {}
 while True:
