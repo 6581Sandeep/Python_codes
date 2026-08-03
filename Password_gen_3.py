@@ -1,6 +1,5 @@
-# --------------------------------------------------------------------------------------Task 3 PASSWORD GENERATOR
+# --------------------------------------------------------------------------------------PASSWORD GENERATOR
 
-print("TASK 3")
 print("------ PASSWORD GENERATOR ------")
 print("Name : SANDEEP SANJAYKUMAR SWAMI\n")
 import random
