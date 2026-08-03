@@ -1,5 +1,4 @@
 # -------------------------------------------------------------------------------------Task 2 calculater
-print("TASK 2")
 print("calculater")
 print("Name : SANDEEP SANJAYKUMAR SWAMI\n")
 input1 = int(input("\nEnter your 1st input : "))
