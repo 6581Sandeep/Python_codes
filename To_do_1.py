@@ -1,7 +1,6 @@
 # --------------------------------------------------------------------------------------Task 1 To Do List 
 
 def to_do_list():
-    print("TASK 1")
     print("TO - DO - LIST ")
     print("Name : SANDEEP SANJAYKUMAR SWAMI\n")
     my = []
