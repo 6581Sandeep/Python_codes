@@ -1,6 +1,5 @@
-# --------------------------------------------------------------------------------------Task 4 game Rock-Paper-Scissors Game
+# -------------------------------------------------------------------------------------- game Rock-Paper-Scissors Game
 def game():
-    print("TASK 4")
     print("Rock-Paper-Scissors Game")
     print("Name : SANDEEP SANJAYKUMAR SWAMI\n")
     import random
